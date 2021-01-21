@@ -8,7 +8,7 @@ As description suggests, this is a collection of useful tech advice intended to 
 
 ## Common adivce
 * [Choosing Desktop Environment](common/choosing-de.md)
-* [OpenGL vs Vulkan](common/gv-vs-vulkan.md)
+* [OpenGL vs Vulkan](common/gl-vs-vulkan.md)
 
 ## KDE-specific (but may give hints to others)
 * [Configuring compositor](kde/compositor.md)
@@ -17,6 +17,7 @@ As description suggests, this is a collection of useful tech advice intended to 
 ## Nvidia-specific
 * [Why not wayland? (TL;DR: because Nvidia says so)](nvidia/wayland.md)
 * [XConfig: cheap VSync for everyone](nvidia/xconfig.md)
+* [GWE: easy monitoring and overclocking](nvidia/gwe.md)
 * [Going deeper: extra options for Nvidia driver](nvidia/driver.md)
 * [Useful environment variables](nvidia/variables.md)
 * [Easier way without variables: using application profiles](nvidia/profiles.md)
