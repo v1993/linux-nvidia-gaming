@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/v1993/linux-nvidia-gaming/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+As description suggests, this is a collection of useful tech advice intended to maximize performance of games running on your Linux system. While major amount of advice is directed specifically at Nvidia, some (linked in the upmost section) is also universally applicable to all vendors. Some of adive also is KDE-specific, but your DE may implement something close, so it might be useful for you as well.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Warning: some of given advice may cause damage to your system, potentially including hardware. While I try and test it myself before posting here, I take no responsibility its application by others might cause.
 
-### Markdown
+### Note: this is a work-in-progress collection, some pages may not be available yet
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Common adivce
+* [Choosing a right Desktop Environment](common/choosing-de.md)
+* [OpenGL vs Vulkan](common/gv-vs-vulkan.md)
 
-```markdown
-Syntax highlighted code block
+## KDE-specific (but may give hints to others)
+* [Configuring compositor](kde/compositor.md)
+* [Application Profiles](kde/profiles.md)
 
-# Header 1
-## Header 2
-### Header 3
+## Nvidia-specific
+* [Why not wayland? (TL;DR: because Nvidia says so)](nvidia/wayland.md)
+* [XConfig: cheap VSync for everyone](nvidia/xconfig.md)
+* [Going deeper: extra options for Nvidia driver](nvidia/driver.md)
+* [Useful environment variables](nvidia/variables.md)
+* [Easier way without variables: using application profiles](nvidia/profiles.md)
 
-- Bulleted
-- List
+## Licensing
 
-1. Numbered
-2. List
+        Copyright (C)  2021  Valeri Ochinski.
+        Permission is granted to copy, distribute and/or modify this document
+        under the terms of the GNU Free Documentation License, Version 1.3
+        or any later version published by the Free Software Foundation;
+        with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/v1993/linux-nvidia-gaming/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Copy of the license is included in Markdown form as [LICENSE.md](LICENSE.md).
