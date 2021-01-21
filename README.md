@@ -7,7 +7,7 @@ As description suggests, this is a collection of useful tech advice intended to 
 ### Note: this is a work-in-progress collection, some pages may not be available yet
 
 ## Common adivce
-* [Choosing a right Desktop Environment](common/choosing-de.md)
+* [Choosing Desktop Environment](common/choosing-de.md)
 * [OpenGL vs Vulkan](common/gv-vs-vulkan.md)
 
 ## KDE-specific (but may give hints to others)
