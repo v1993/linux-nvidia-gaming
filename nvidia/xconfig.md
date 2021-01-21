@@ -1,4 +1,4 @@
-## XConfig: cheap VSync for everyone
+# XConfig: cheap VSync for everyone
 
 This section of guide describes a simple way to enable VSync system-wide. This is the only way to do so for some games, while others still benefit in form of icreased performance while still preventing tearing.
 
@@ -12,7 +12,7 @@ Now, click "Save to X Configuration File", enter `/etc/X11/xorg.conf` as path (i
 
 If using KDE, it's also time to disable its own VSync as outlined in [Configuring compositor](kde/compositor.md) article.
 
-# Optional: enable overclocking and fan control
+## Optional: enable overclocking and fan control
 
 If you don't intend to overclock, you can skip this section. Or not. It won't hurt to have this enabled. Should you choose to skip it, don't forget to reboot anyways!
 
