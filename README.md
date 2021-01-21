@@ -9,6 +9,7 @@ As description suggests, this is a collection of useful tech advice intended to 
 ## Common adivce
 * [Choosing Desktop Environment](common/choosing-de.md)
 * [OpenGL vs Vulkan](common/gl-vs-vulkan.md)
+* [CPU Governor](common/cpu-governor.md)
 
 ## KDE-specific (but may give hints to others)
 * [Configuring compositor](kde/compositor.md)
