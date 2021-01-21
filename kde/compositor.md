@@ -4,11 +4,11 @@ KDE is highly configurable, including its compositor. Here, parts useful for per
 
 ### Disable compositor for some apps
 
-There is a way to automatically disable compositor for some applications. For more on this, read [Application Profiles](kde/profiles.md).
+There is a way to automatically disable compositor for some applications. For more on this, read [Window Rules](kde/windowrules.md).
 
 ### Compositor toggle hotkey
 
-To quickly turn compositor off and on, use `Alt+Shift+F12` (adjust if you have Fn key accordingly). It is extremely useful as a quick shortcut for testing and when application profiles don't work out nicely for some application.
+To quickly turn compositor off and on, use `Alt+Shift+F12` (adjust if you have Fn key accordingly). It is extremely useful as a quick shortcut for testing and when window rules don't work out nicely for some application.
 
 ### Tweaking compositor
 
