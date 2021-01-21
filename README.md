@@ -12,7 +12,7 @@ As description suggests, this is a collection of useful tech advice intended to 
 
 ## KDE-specific (but may give hints to others)
 * [Configuring compositor](kde/compositor.md)
-* [Application Profiles](kde/profiles.md)
+* [Window Rules](kde/windowrules.md)
 
 ## Nvidia-specific
 * [Why not wayland? (TL;DR: because Nvidia says so)](nvidia/wayland.md)
