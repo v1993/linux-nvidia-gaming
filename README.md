@@ -1,3 +1,5 @@
+# THIS IS SEVERELY OUTDATED. PLEASE SEEK ADVISE ELSEWHERE.
+
 # Introduction
 
 As description suggests, this is a collection of useful tech advice intended to maximize performance of games running on your Linux system. While major amount of advice is directed specifically at Nvidia, some (linked in the upmost section) is also universally applicable to all vendors. Some of adive also is KDE-specific, but your DE may implement something close, so it might be useful for you as well.
